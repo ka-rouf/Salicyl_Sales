@@ -14,5 +14,5 @@ Steps:
 5. [Create aggregate tables.](./aggregate_table.sql)
 
 Preview of the final dashboard:
-![Preview Salicyl Dashboard](https://github.com/ka-rouf/Salicyl_Sales/assets/145698290/2b6ee32f-1c30-48bc-a9f8-f6b9d44fd3f2)
+![Preview Salicyl Dashboard](https://github.com/ka-rouf/Salicyl_Sales/assets/145698290/227560c7-8a69-432a-a16e-ddf125a1e9e8)
 Interactive dashboard available at this [link](https://lookerstudio.google.com/reporting/65b2f5aa-d445-4dc0-b574-6873c5a06829/page/ftRmD).
