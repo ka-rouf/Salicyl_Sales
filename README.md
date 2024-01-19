@@ -7,9 +7,9 @@ Main Tasks:
 2. Develop a dashboard to present the sales performance of the Salicyl brand using the provided raw data.
 
 Steps:
-1. [Create tables.](./CREATE TABLE.sql)
-2. [Insert values.](./INSERT VALUES.sql)
-3. [Merge tables.](./Merge Table.sql)
+1. [Create tables.](./CREATE%20TABLE.sql)
+2. [Insert values.](./INSERT%20VALUES.sql)
+3. [Merge tables.](./Merge%20Table.sql)
 4. [Create base tables.](./base_table.sql)
 5. [Create aggregate tables.](./aggregate_table.sql)
 
