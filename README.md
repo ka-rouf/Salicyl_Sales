@@ -1,5 +1,5 @@
-# Salicyl_Sales
-Repository for My Final Project - Big Data Analytics Project-Based Internship Program by Kimia Farma x Rakamin Academy
+# Salicyl Sales
+Repository for the Final Project during the Big Data Analytics Project-Based Internship Program by Kimia Farma x Rakamin Academy
 -------------------------------------------------------------------------------------------------------------------
 
 Main Tasks:
